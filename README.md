@@ -23,7 +23,7 @@ This API was built to support the development and demo of a digital credentialin
 | Robert Ahearn   | Active  | None       | Yes       |
 | Ashley Ahearn   | Active  | None       | Yes       |
 | John Glynn      | Active  | Yes        | Yes       |
-| Timothy Smith   | Active  | None       | No        |
+| Tim Smith       | Active  | None       | No        |
 
 ## Tech Stack
 
